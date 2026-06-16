@@ -1,0 +1,2 @@
+# Geguritanjawa
+Untuk bot
